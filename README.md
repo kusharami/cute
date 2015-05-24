@@ -1,2 +1,2 @@
 # cute
-CUTE Unit Testing Framewoek
+CUTE Unit Testing Framework
