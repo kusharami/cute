@@ -1,2 +1,3 @@
-# cute
-CUTE Unit Testing Framework
+# CUTE
+Unit Testing Framework
+http://cute-test.com/
